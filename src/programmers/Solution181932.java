@@ -1,5 +1,5 @@
 package programmers;
-
+// https://school.programmers.co.kr/learn/courses/30/lessons/181932
 public class Solution181932 {
     public String solution(String code) {
         StringBuilder answerBuilder = new StringBuilder();
