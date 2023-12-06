@@ -1,4 +1,5 @@
 # 연습문제 링크
+
 ## 난이도 하
 - [더 크게 합치기](../programmers/Solution181939.java)
 - [두 수의 연산값 비교하기](../programmers/Solution181938.java)
@@ -8,9 +9,7 @@
 
 ## 난이도 중
 - [2의 영역](../programmers/Solution181894.java)
-
-숫자 카드
-https://www.acmicpc.net/problem/10815
+- [숫자 카드](../boj/Main10815.java)
 
 주사위 게임 3
 https://school.programmers.co.kr/learn/courses/30/lessons/181916
