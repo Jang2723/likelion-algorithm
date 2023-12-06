@@ -8,5 +8,10 @@ public class Solution181938 {
         if(AB > 2*a*b) return AB;
         else if (AB < 2 * a*b) return 2 * a*b;
         else return AB;
+
+//        String leftResultStr = "" + a + b;
+//        int rightResult = 2* a*b;
+//        int leftResult = Integer.parseInt(leftResultStr);
+//        return leftResult > rightResult ? leftResult : rightResult;
     }
 }

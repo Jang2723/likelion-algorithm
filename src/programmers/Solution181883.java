@@ -7,10 +7,11 @@ queries의 원소는 각각 하나의 query를 나타내며, [s, e] 꼴입니다
  */
 public class Solution181883 {
     public int[] solution(int[] arr, int[][] queries) {
+        // 각 query를 확인
         for(int[] query : queries){
             int s = query[0];
             int e = query[1];
-            for (int i = s; i < e -1; i++) {
+            for (int i = s; i < e + 1; i++) {
                 arr[i] +=1;
             }
         }
