@@ -8,10 +8,7 @@
 
 ## 난이도 중
 - [고무오리 디버깅](../boj/Main20001.java)
-https://www.acmicpc.net/problem/20001
-
 - [좋은 단어](../boj/Main3986.java)
-https://www.acmicpc.net/problem/3986
 
 - [최댓값](../boj/Main2566.java)
 https://www.acmicpc.net/problem/2566

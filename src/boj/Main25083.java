@@ -1,6 +1,14 @@
 package boj;
 // 새싹
 // https://www.acmicpc.net/problem/25083
+/*
+         ,r'"7
+r`-_   ,'  ,/
+ \. ". L_r'
+   `~\/
+      |
+      |
+*/
 public class Main25083 {
     public static void main(String[] args) {
         System.out.println("         ,r'\"7");

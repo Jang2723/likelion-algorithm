@@ -12,8 +12,7 @@ public class Solution181934 {
             answer = n > m ? 1 : 0;
         } else if (eq.equals("=") && ineq.equals("<")) {
             answer = n <= m ? 1 : 0;
-        }
-        else{
+        } else{
             answer = n >= m ? 1 : 0;
         }
         return answer;
