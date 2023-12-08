@@ -9,17 +9,9 @@ public class Solution181903 {
         String answer = "";
         // 문자열을 이어붙을 StringBuilder
         StringBuilder sb = new StringBuilder();
-        // code의 인덱스를 q로 나눈 나머지를 저장할 배열
-        int[] index = new int[code.length()];
-
         // 나머지 연산
         for (int i = 0; i < code.length(); i++) {
-            index[i] = i % q;
-        }
-
-        // 나머지가 r과 같은 문자를 저장
-        for (int i = 0; i < index.length; i++) {
-            if (index[i] == r){
+            if ( i % q == r){
                 sb.append(code.charAt(i));
             }
         }
